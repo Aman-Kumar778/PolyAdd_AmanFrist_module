@@ -1,7 +1,7 @@
 
 # MODULE 1 PROJECT
 
-This program is a Module 1 Project program that demonstrates the basic syntax and functionality of the Solidity programming language and Javascript.
+This Project is about the Polgon Bridge , where i have deployed NFT Collection on the Eth Blockchain , map the collection and also transfer assets over Polygon Bridge. This Project requires knowledge about the hardhat network , amoy and sepolia testnet to work with. Also need to get collections for our NFTs from any online source. 
 ## Description
 
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain .The purpose of this project is to 
@@ -24,7 +24,7 @@ This program serves as a simple and straightforward introduction to Solidity pro
 
 You will want to do the following steps to run the project :-
 
-1. First of all , install the metamask wallet on Browser.
+1. Install the metamask wallet on Browser.
 2. In Metamask , you have to Add sepolia and amoy test networks . For adding this , go to chainlist website (https://chainlist.org/?testnets=true) then click on Use Metamask button in the Pop-up and make sure the 'Include Testnets' checkbox is enabled . Then search for 11155111 chain ID in 'Search Networks' input field and then click on Add to Metamask button to add network to Metamask and then click on Approve button in the pop-up by Metacrafters. After this , search for 80002 chain ID in 'Search Networks' input field and then click on Add to Metamask button to add network to Metamask and then click on Approve button in the pop-up by Metacrafters . Both the Networks are added to our metamask wallet .
 3.  Now, we need testnet tokens in both the networks to run the transactions . For Obtaining Sepolia testnet token go to https://cloud.google.com/application/web3/faucet/ethereum/sepolia and for amoy testnet tokens go to https://faucet.polygon.technology/ (Joining Polygon Discord is required) and get the testnet tokens in both the networks.
 4. Clone the Github repository(make sure each file here is available).
@@ -44,6 +44,5 @@ You will want to do the following steps to run the project :-
  
 ## Author
 
-GAURAV GARG
+Aman Kumar
 STUDENT
-CHANDIGARH UNIVERSITY
